@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+  }
+
+
+html {
+    background-color: #6376a4;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+#title {
+    font-size: 70vw;
+    color: white;
+}
