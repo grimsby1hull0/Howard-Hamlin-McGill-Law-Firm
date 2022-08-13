@@ -11,7 +11,13 @@ html {
     overflow-x: hidden;
 }
 
+@font-face {
+    font-family: bangla;
+    src: url(assets/fonts/Bangla\ MN.ttf);
+  }
+
 #title {
     font-size: 70vw;
     color: white;
+    font-style:bangla ;
 }
