@@ -17,7 +17,18 @@ html {
   }
 
 #title {
-    font-size: 70vw;
+    font-size: 4vw;
     color: white;
     font-style:bangla ;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+#logotmp {
+    width: 45vh;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    margin-top: 10vh;
 }
